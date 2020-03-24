@@ -1,0 +1,1 @@
+This is a project I created that creates a database that models a library with categories, authors, books, users, and a class called "Userbook" that tracks books that have been checked out of the library.
